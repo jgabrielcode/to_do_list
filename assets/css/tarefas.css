@@ -103,7 +103,7 @@ i{
     font-size: 2rem;
 }
 i:hover{
-    transform:scale(1.2) rotate(-5deg);
+    transform:scale(1.2);
     color: red;
 }
 
