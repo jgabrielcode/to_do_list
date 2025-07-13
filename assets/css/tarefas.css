@@ -20,7 +20,7 @@
 }
 
 .todo-app{
-    width: 100%;
+    width: 90%;
     max-width: 540px;
     background-color: #fff;
     margin: 10rem auto 2rem;
@@ -60,7 +60,7 @@ input{
 button{
     border: none;
     outline: none;
-    padding: 1.6rem 5rem;
+    padding: 1.6rem 3rem;
     background-color: var(--corBt);
     color: #fff;
     font-size: 1.6rem;cursor: pointer;
